@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/AboutMe.css';
-import images from '../images/mypic.png';
+import mypic from '../images/mypic.png';
 
 import {Container, Row, Col, Image} from "react-bootstrap"
 
@@ -11,8 +11,8 @@ export default function AboutMe() {
       <Container>
         <Row>
           
-          <Col xs={6} md={4}>
-            <Image src={"../images/mypic.png"} roundedCircle />
+          <Col xs={6} md={6}>
+            <Image src={mypic} roundedCircle />
           </Col>
   
         </Row>
