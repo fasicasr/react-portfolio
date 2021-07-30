@@ -19,7 +19,7 @@ My portfolio created with react. This application now highlights the two group p
 # Webpage Display 
 
 Intro:
-![Intro](![aboutt](https://user-images.githubusercontent.com/78572507/127586501-02ecbacf-d9fc-4243-9c2a-8c9d74861426.png))
+![aboutt](https://user-images.githubusercontent.com/78572507/127586878-66e6cf11-6de5-41fa-a6e7-c74cc469c5da.png)
 About Me:
 ![About Me](./images/aboutme.png)
 Projects:
