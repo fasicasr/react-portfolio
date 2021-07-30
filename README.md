@@ -4,7 +4,7 @@ My portfolio created with react. This application now highlights the two group p
 
 ## Application Display  
 
-* Application: https://fasicasr.github.io/updated-portfolio/index.html
+* Application: https://fasicasr.github.io/react-portfolio/
 * Github: https://github.com/fasicasr/react-portfolio
 
 # Highlights 
