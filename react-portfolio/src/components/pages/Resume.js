@@ -1,15 +1,19 @@
 import React from 'react';
 import resume from '../images/resume.pdf'
 
+
 export default function Resume() {
   return (
     <div>
     
       <h1>Resume </h1>
-      <a href={resume} download>Click to download</a>
+      <a href={resume} download>Download Resume</a>
+
       <p>
+
       <ul>
-        <p>Front End</p>
+        <p><strong>Front End</strong></p>
+        
           <li>HTML</li>
           <li>CSS</li>
           <li>Bootstrap</li>
@@ -17,7 +21,7 @@ export default function Resume() {
           <li>jQuery</li>
           <li>React</li>
           <hr></hr>
-          <p>Back End</p>
+          <p><strong>Back End</strong></p>
           <li>Node</li>
           <li>Express</li>
           <li>MySQL</li>

@@ -1,0 +1,13 @@
+* {
+ 
+    font-family: cursive;
+    background-image: url("../src/components/images/background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+  
+#aboutMe {
+ color: black;
+}

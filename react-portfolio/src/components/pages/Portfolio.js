@@ -2,6 +2,8 @@ import React from 'react';
 import {Row, Card,ListGroup, ListGroupItem} from "react-bootstrap"
 import eye from '../images/eye.jpg';
 import again from '../images/again.png';
+import { FaGithubAlt } from "react-icons/fa";
+import { FaLaptop } from "react-icons/fa";
 
 export default function Portfolio() {
   return (
@@ -23,12 +25,12 @@ export default function Portfolio() {
           <ListGroupItem>MySQL</ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link href="#">Card Link</Card.Link>
-          <Card.Link href="#">Another Link</Card.Link>
+          <Card.Link href="https://github.com/ForestW70/viBlocks"><FaGithubAlt/></Card.Link>
+          <Card.Link href="https://viblocks.herokuapp.com/login"><FaLaptop/></Card.Link>
         </Card.Body>
       </Card>
       <Card style={{ width: '25rem' }}>
-        <Card.Img variant="top" src={again} />
+        <Card.Img variant="top" src={eye} />
         <Card.Body>
         <Card.Title>CryptoCurrently</Card.Title>
           <Card.Text>
@@ -41,14 +43,14 @@ export default function Portfolio() {
           <ListGroupItem>API</ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link href="#">Card Link</Card.Link>
-          <Card.Link href="#">Another Link</Card.Link>
+          <Card.Link href="https://github.com/mjguerrero/cryptocurrently"><FaGithubAlt/></Card.Link>
+          <Card.Link href="https://mjguerrero.github.io/cryptocurrently/"><FaLaptop/></Card.Link>
         </Card.Body>
       </Card>
   </Row>
   <Row>
             <Card style={{ width: '25rem' }}>
-        <Card.Img variant="top" src={eye} />
+        <Card.Img variant="top" src={again} />
         <Card.Body>
           <Card.Title>Workout Tracker</Card.Title>
           <Card.Text>
@@ -62,8 +64,8 @@ export default function Portfolio() {
           <ListGroupItem>MongoDB</ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link href="#">Card Link</Card.Link>
-          <Card.Link href="#">Another Link</Card.Link>
+          <Card.Link href="https://github.com/fasicasr/workout-tracker"><FaGithubAlt/></Card.Link>
+          <Card.Link href="https://fsr-workout-tracker.herokuapp.com/?id=60e081c9c1f1a60015e38374"><FaLaptop/></Card.Link>
         </Card.Body>
       </Card>
       <Card style={{ width: '25rem' }}>
@@ -71,7 +73,7 @@ export default function Portfolio() {
         <Card.Body>
           <Card.Title>Weather Dashboard</Card.Title>
           <Card.Text>
-          An weather tracking application that allowas users to get 5 day forcast based on city.
+          An weather tracking <FaLaptop/>lication that allowas users to get 5 day forcast based on city.
           </Card.Text>
         </Card.Body>
         <ListGroup className="list-group-flush">
@@ -80,8 +82,8 @@ export default function Portfolio() {
           <ListGroupItem>API</ListGroupItem>
         </ListGroup>
         <Card.Body>
-          <Card.Link href="#">Card Link</Card.Link>
-          <Card.Link href="#">Another Link</Card.Link>
+          <Card.Link href="https://github.com/fasicasr/weather-dashboard"><FaGithubAlt/></Card.Link>
+          <Card.Link href="https://fasicasr.github.io/weather-dashboard/index.html"><FaLaptop/></Card.Link>
         </Card.Body>
       </Card>
   </Row>

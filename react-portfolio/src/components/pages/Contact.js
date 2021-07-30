@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <div>
       <h1>Contact Me</h1>
-      <Card style={{ width: "50%" }}>
+      <Card className="contact-card" style={{ width: "50%" }}>
         <Card.Header>What to know more?</Card.Header>
         <Card.Body>
         <InputGroup className="mb-3">
