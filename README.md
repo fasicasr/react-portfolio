@@ -19,7 +19,7 @@ My portfolio created with react. This application now highlights the two group p
 # Webpage Display 
 
 Intro:
-![Intro](./images/navbar.png)
+![Intro](![aboutt](https://user-images.githubusercontent.com/78572507/127586501-02ecbacf-d9fc-4243-9c2a-8c9d74861426.png))
 About Me:
 ![About Me](./images/aboutme.png)
 Projects:
@@ -31,8 +31,7 @@ Work Sample and Contact Me:
 
 # Collaborators
 
-CryptoCurrently
-* Maria Guerrero - Github: mjquerrero
+CryptoCurrently![Uploading aboutt.png…]()* Maria Guerrero - Github: mjquerrero
 * Sam Garcia - Github: sam25188
 * Sana Chowdhury - Github: sanawck
 * Fasica Robi - Github: fasicasr
