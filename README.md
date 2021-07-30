@@ -23,7 +23,7 @@ About Me:
 Portfolio:
 ![portfolio](https://user-images.githubusercontent.com/78572507/127586961-f38dcf36-396d-421d-b4f9-a179f07e0c0e.png)
 Resume:
-![Projects](./images/projects.png)
+![resume](https://user-images.githubusercontent.com/78572507/127587089-edb37da3-85ae-4fa5-b617-de2f9c508c4d.png)
 Contact Me:
 ![Contact Me](./images/workcontact.png)
 
