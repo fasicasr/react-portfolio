@@ -6,6 +6,7 @@ My portfolio created with react. This application now highlights the two group p
 
 * Application: https://fasicasr.github.io/react-portfolio/
 * Github: https://github.com/fasicasr/react-portfolio
+* Demo: https://drive.google.com/file/d/10oScdYC-FagXFoDmq57Etp95yje3kYsu/view?usp=sharing
 
 # Highlights 
 
