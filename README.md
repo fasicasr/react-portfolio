@@ -25,7 +25,7 @@ Portfolio:
 Resume:
 ![resume](https://user-images.githubusercontent.com/78572507/127587089-edb37da3-85ae-4fa5-b617-de2f9c508c4d.png)
 Contact Me:
-![Contact Me](./images/workcontact.png)
+![contact](https://user-images.githubusercontent.com/78572507/127587132-abec7aa3-25ff-42a0-be82-760c13a67894.png)
 
 
 
