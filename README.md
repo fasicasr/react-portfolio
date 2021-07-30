@@ -18,13 +18,13 @@ My portfolio created with react. This application now highlights the two group p
 
 # Webpage Display 
 
-Intro:
-![aboutt](https://user-images.githubusercontent.com/78572507/127586878-66e6cf11-6de5-41fa-a6e7-c74cc469c5da.png)
 About Me:
-![About Me](./images/aboutme.png)
-Projects:
+![aboutt](https://user-images.githubusercontent.com/78572507/127586878-66e6cf11-6de5-41fa-a6e7-c74cc469c5da.png)
+Portfolio:
+![portfolio](https://user-images.githubusercontent.com/78572507/127586961-f38dcf36-396d-421d-b4f9-a179f07e0c0e.png)
+Resume:
 ![Projects](./images/projects.png)
-Work Sample and Contact Me:
+Contact Me:
 ![Contact Me](./images/workcontact.png)
 
 
